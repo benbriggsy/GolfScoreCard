@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GolfScoreCard</string>
+    <string name="HoleAmountQ">Enter how many holes:</string>
+    <string name="start">Start Round</string>
+    <string name="par">Par for the hole:</string>
+    <string name="addStroke">Add Stroke</string>
+    <string name="nextHole">Next Hole</string>
+    <string name="viewScorecard">View Scorecard</string>
+</resources>
